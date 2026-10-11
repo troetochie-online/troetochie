@@ -4,7 +4,7 @@
 
 [![Release](https://img.shields.io/github/v/release/troetochie-online/troetochie?label=версия&color=21a038)](../../releases/latest)
 ![macOS](https://img.shields.io/badge/macOS-14%2B-black)
-![Windows](https://img.shields.io/badge/Windows-10%2B%20·%20бета-0078d4)
+![Windows](https://img.shields.io/badge/Windows-10%2B-0078d4)
 ![Цена](https://img.shields.io/badge/цена-бесплатно-21a038)
 [![Сайт](https://img.shields.io/badge/сайт-troetochie.online-141c17)](https://troetochie.online)
 
@@ -22,7 +22,7 @@
 
 [![Скачать для macOS](docs/download-macos.svg)](../../releases/latest/download/Troetochie.dmg)
 &nbsp;
-[![Скачать для Windows](docs/download-windows.svg)](../../releases/latest/download/Troetochie-Windows-setup.exe)
+[![Скачать для Windows](docs/download-windows.svg)](https://github.com/troetochie-online/troetochie/releases/download/windows-v0.3.13/Troetochie-Windows-setup.exe)
 
 Кнопки ведут прямо на файлы последней версии. Дальше приложение на Mac обновляется само.
 
@@ -31,7 +31,7 @@
 - **Универсальный доступ** — видеть поле ввода и вставлять ответ;
 - **Запись экрана** — читать переписку там, где приложение не отдаёт текст иначе (например, Telegram Desktop).
 
-**Windows (бета).** Установщик ставится без прав администратора. SmartScreen может предупредить о неизвестном издателе: «Подробнее» → «Выполнить в любом случае». Серая подсказка работает в Telegram Desktop, Discord и браузере.
+**Windows 0.3.13, 10+ x64.** Установщик ставится без прав администратора. SmartScreen может предупредить о неизвестном издателе: «Подробнее» → «Выполнить в любом случае». В 0.3.13 исправлена ошибка OCR, блокировавшая чтение переписки в Telegram. Серая подсказка работает в Telegram Desktop, Discord и браузере. Всплывающая кнопка «Улучшить» по умолчанию выключена и включается в настройках.
 
 ## Как это работает
 
