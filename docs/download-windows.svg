@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="260" height="56" viewBox="0 0 260 56" role="img" aria-label="Скачать для Windows">
-  <rect x="1" y="1" width="258" height="54" rx="12" fill="#141c17" stroke="#21a038" stroke-width="2"/>
-  <text x="130" y="35" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#ffffff">Скачать для Windows ↓</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="244" height="48" viewBox="0 0 244 48" role="img" aria-label="Скачать для Windows">
+  <rect width="244" height="48" rx="10" fill="#17803a"/>
+  <g transform="translate(18 14) scale(.8333)" fill="none" stroke="#ffffff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect width="20" height="14" x="2" y="3" rx="2"/><path d="M8 21h8M12 17v4"/></g>
+  <text x="137.0" y="29.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#ffffff">Скачать для Windows</text>
 </svg>

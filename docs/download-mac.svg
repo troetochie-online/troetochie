@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="206" height="48" viewBox="0 0 206 48" role="img" aria-label="Скачать для Mac">
+  <rect width="206" height="48" rx="10" fill="#17803a"/>
+  <g transform="translate(18 14) scale(.8333)" fill="none" stroke="#ffffff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 16V7a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v9m16 0H4m16 0 1.28 2.55a1 1 0 0 1-.9 1.45H3.62a1 1 0 0 1-.9-1.45L4 16"/></g>
+  <text x="118.0" y="29.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#ffffff">Скачать для Mac</text>
+</svg>
