@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="216" height="48" viewBox="0 0 216 48" role="img" aria-label="Скачать для Linux">
+  <rect width="216" height="48" rx="10" fill="#17803a"/>
+  <g transform="translate(18 14) scale(.8333)" fill="none" stroke="#ffffff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="m4 17 6-6-6-6"/><path d="M12 19h8"/></g>
+  <text x="123.0" y="29.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#ffffff">Скачать для Linux</text>
+</svg>
